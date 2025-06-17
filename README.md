@@ -1,4 +1,4 @@
-# Hey there, I’m Ali Abid 👋
+# Hey there, I’m Ali  👋
 
 I’m a passionate developer always chasing the latest in tech 🚀  
 From sleek frontend frameworks to cutting-edge AI models — if it’s new, I’m probably already tinkering with it. 😎
