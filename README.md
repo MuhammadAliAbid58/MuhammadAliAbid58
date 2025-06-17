@@ -1,4 +1,4 @@
-# Hey there, I’m Ali  👋
+# Hey there, I’m Ali Abid 👋
 
 I’m a passionate developer always chasing the latest in tech 🚀  
 From sleek frontend frameworks to cutting-edge AI models — if it’s new, I’m probably already tinkering with it. 😎
@@ -6,7 +6,7 @@ From sleek frontend frameworks to cutting-edge AI models — if it’s new, I’
 ### 💻 Tech Arsenal:
 - **Frontend:** Next.js ⚡, Angular 💥
 - **Backend:** Full-stack wizardry with PostgreSQL 🛡️
-- **AI/ML:** LLM fine-tuning, Unslooth, and always diving into the latest AI/ML magic 🤖✨
+- **AI/ML:** LLM fine-tuning, Unsloth, and always diving into the latest AI/ML magic 🤖✨
 
 ### 🌱 Currently Exploring:
 - Advanced LLM architectures 🧠
